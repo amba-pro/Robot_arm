@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+
+.smoke_logs/
+*.log
+angles_cache.json
+
+build/
+install/
+log/
+ros_ws/build/
+ros_ws/install/
+ros_ws/log/
+
+.DS_Store

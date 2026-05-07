@@ -1,0 +1,32 @@
+Panels:
+  - Class: rviz_common/Displays
+    Name: Displays
+  - Class: rviz_common/Views
+    Name: Views
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Alpha: 1
+      Class: rviz_default_plugins/Grid
+      Name: Grid
+      Enabled: true
+    - Alpha: 1
+      Class: rviz_default_plugins/RobotModel
+      Name: RobotModel
+      Enabled: false
+    - Alpha: 1
+      Class: rviz_default_plugins/MarkerArray
+      Name: Markers
+      Enabled: false
+  Enabled: true
+  Global Options:
+    Background Color: 48; 48; 48
+    Fixed Frame: map
+  Name: root
+  Tools:
+    - Class: rviz_default_plugins/Interact
+    - Class: rviz_default_plugins/MoveCamera
+  Value: true
+Window Geometry:
+  Width: 1200
+  Height: 800
