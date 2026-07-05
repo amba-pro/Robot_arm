@@ -1,7 +1,6 @@
 # Robot ARM4 — финальный проект
 
-![Uploading photo_2026-07-05_15-42-21.jpg…]()
-
+<img width="720" height="1280" alt="photo_2026-07-05_15-42-21" src="https://github.com/user-attachments/assets/943f6674-86c8-451d-8b98-ed3d9406680c" />
 
 ## Цели финальной работы
 
